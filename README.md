@@ -26,7 +26,7 @@ This is a Bash script that analyzes basic server performance stats on any Linux 
 
 Clone the repository
 ```bash
-git clone https://github.com/nireekshshetty/linux-server-stats-analyze
+git clone https://github.com/nireekshshetty/linux-server-stats-analyzer.git
 ```
 Give permission and then run shell script
 ```bash
