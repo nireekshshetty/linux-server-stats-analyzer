@@ -4,12 +4,6 @@ This is a Bash script that analyzes basic server performance stats on any Linux 
 
 ---
 
-## 📌 Project URL
-
-This project is part of the [roadmap.sh DevOps Projects](https://roadmap.sh/projects/server-stats)
-
----
-
 ## 🚀 Features
 
 - ✅ **CPU Usage** — Shows user, system, and idle CPU percentages
@@ -30,6 +24,16 @@ This project is part of the [roadmap.sh DevOps Projects](https://roadmap.sh/proj
 
 ## 🛠️ How to Run
 
+Clone the repository
+```bash
+git clone https://github.com/nireekshshetty/linux-server-stats-analyze
+```
+Give permission and then run shell script
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+```
+
+## 📌 Project URL
+
+This project is part of the [roadmap.sh DevOps Projects](https://roadmap.sh/projects/server-stats)
