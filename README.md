@@ -11,15 +11,6 @@ This is a Bash script that analyzes basic server performance stats on any Linux 
 - ✅ **Disk Usage** — Shows free vs. used disk space with usage percentage
 - ✅ **Top 5 Processes by CPU**
 - ✅ **Top 5 Processes by Memory**
-
-### 🏁 Stretch Goals (Optional but supported)
-
-- OS version
-- Uptime
-- Load average
-- Logged-in users
-- Failed login attempts
-
 ---
 
 ## 🛠️ How to Run
